@@ -2,88 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="031ff172-0b6c-452c-9f40-ddf07d505d50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-ExtraBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-Semibold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/OpenSans-SemiboldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/economy-pres.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/internetminute.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/league_gothic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/league_gothic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/league_gothic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/social-media-map.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/social_media_future.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/we_know_what_you_are_doing_screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wkwyad_part.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/classList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/classList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/multiplex/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/notes-server/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/d3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/d3.layout.cloud.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/d3.layout.cloud.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/markdown/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/postmessage/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/markdown/example.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/footer/footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/head.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/head.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/highlight/highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/multiplex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/notes-server/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/league_gothic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/league_gothic_license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/leap/leap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/markdown/markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/markdown/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/multiplex/master.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/math/math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/notes/notes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/notes-server/notes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/notes/notes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/overrides.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/paper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/pdf.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/postmessage/postmessage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/print-pdf/print-pdf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/question.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/remotes/remotes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/reveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/reveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/reveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/reveal.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/reveal.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/search/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/simple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/zenburn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/zoom-js/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.svg" />
+      <change type="DELETED" beforePath="C:\Users\Argon\Projekte\economy-pres\img\internetminute.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Argon\Projekte\economy-pres\img\logos.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Argon\Projekte\economy-pres\img\social_media_future.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Argon\Projekte\economy-pres\img\wat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Argon\Projekte\economy-pres\img\we_know_what_you_are_doing_screen.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Argon\Projekte\economy-pres\img\wkwyad_part.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="economy-pres.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,7 +42,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="1675" selection-end="1675" vertical-scroll-proportion="0.49941108" vertical-offset="511" max-vertical-offset="1394">
+            <state line="16" column="55" selection-start="701" selection-end="701" vertical-scroll-proportion="0.13898705" vertical-offset="154" max-vertical-offset="1411">
               <folding />
             </state>
           </provider>
@@ -189,6 +122,76 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="video" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="economy-pres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -196,6 +199,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Argon\Projekte\economy-pres\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Argon\Projekte\economy-pres\font" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -237,12 +248,18 @@
       <created>1391859630052</created>
       <updated>1391859630052</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1391860060266</created>
+      <updated>1391860060266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1048" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -267,17 +284,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="1675" selection-end="1675" vertical-scroll-proportion="0.49941108" vertical-offset="511" max-vertical-offset="1394">
+        <state line="16" column="55" selection-start="701" selection-end="701" vertical-scroll-proportion="0.13898705" vertical-offset="154" max-vertical-offset="1411">
           <folding />
         </state>
       </provider>
