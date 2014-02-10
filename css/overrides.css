@@ -53,4 +53,15 @@ content: '„' ''}
 cite:after, blockquote:after {
 content: '' '“'}
 .reveal footer {font-family:'open sans'}
-.reveal {font-size:48px}    
+.reveal {font-size:48px}
+
+.reveal .highlight {
+    font-weight: bold;
+    color: #13daec;
+}
+
+.reveal .text-border {
+    text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
+}
+
+
